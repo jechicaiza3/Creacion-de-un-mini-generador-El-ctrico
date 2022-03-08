@@ -37,10 +37,12 @@ Crear o diseñar la construcción de un mini generador eléctrico manual.
 2.1 ¿Qué es un Generador Eléctrico?
 
 Un generador es una máquina eléctrica rotativa que transforma energía mecánica en energía eléctrica. Lo consigue gracias a la interacción de sus componentes principales: el rotor (parte giratoria) y el estátor (parte estática). Cuando un generador eléctrico está en funcionamiento, una de las dos partes genera un flujo magnético (actúa como inductor) para que el otro lo transforme en electricidad (actúa como inducido). Los generadores eléctricos se diferencian según el tipo de corriente que producen, dando lugar a dos grandes grupos: los alternadores y las dinamos. Los alternadores generan electricidad en corriente alterna y las dinamos generan electricidad en corriente continua. 
-Máquinas eléctricas rotativas: los generadores
 
+Máquinas eléctricas rotativas: los generadores
 Las máquinas eléctricas son dispositivos capaces de transformar la energía eléctrica en cualquier otra forma de energía. Se dividen en los siguientes tipos:
+
 •	Máquinas eléctricas rotativas. Están compuestas de partes giratorias, son reversibles y pueden trabajar de dos maneras diferentes: como motor eléctrico (convirtiendo la energía eléctrica en mecánica) o como generador eléctrico (convirtiendo la energía mecánica en eléctrica).
+
 •	Máquinas eléctricas estáticas. No disponen de partes móviles, al igual que ocurre con los transformadores.
 En las máquinas rotativas, el rotor se monta en un eje que descansa en dos rodamientos o cojinetes. El espacio de aire que separa el rotor del estátor se llama entrehierro y es necesario para que la máquina pueda girar. Normalmente, tanto en el estátor como en el rotor existen devanados hechos con conductores de cobre por los que circulan corrientes suministradas o cedidas a un circuito exterior que constituye el sistema eléctrico. Uno de los devanados crea un flujo en el entrehierro y se denomina inductor. El otro devanado recibe el flujo del primero y se llama inducido. Asimismo, se podría situar el inductor en el estátor y el inducido en el rotor o viceversa.
 
@@ -121,6 +123,7 @@ Paso 11: Para finalizar pega el motor eléctrico a la base, y pon la bandita alr
 ![image](https://user-images.githubusercontent.com/84757114/157078910-fcbccacd-abc1-4453-b232-4ab75ef4ab97.png)
 
 Paso 12: Luego abre las patas de los LED, conecta la pata negativa de uno a la positiva del otro, y coloca los cables del motor en los puntos de conexión de los LED.
+
 * Tomamos la medición con un multímetro y nos da un valor de 2.60 voltios.
 
 ![image](https://user-images.githubusercontent.com/84757114/157078972-6c202e03-33dd-4c60-954d-5216ac0d8e25.png)
@@ -136,16 +139,18 @@ https://youtu.be/FE3dMqo7iTk
 • Al crear un generador eléctrico es la parte medular en el proceso de generación de energía eléctrica, ya sea en cualquiera de las diferentes modalidades a través de las cuales se lleva a cabo. Como tal, el generador se considera equipo primario dentro de las plantas de generación, por lo cual se debe de contar con dispositivos que presenten un alto nivel de protección, así como un monitoreo continuo y detección oportuna ante eventualidades.
 
 Los niveles de carga máximos para los cuales está diseñado el generador, así como los parámetros mostrados en la hoja de datos del fabricante, brindan información fundamental que debe ser considerada con suma seriedad, al igual que es mandatorio para preservar la seguridad del mismo y los cuales coadyuvarán a mantener la continuidad y estabilidad de la operación del sistema eléctrico de potencia.
+
 Las pruebas primarias de los dispositivos, pruebas de forma aislada, bajo los cuales el generador confía su seguridad, deben ser previamente calibrados, ajustados, probados y verificados. 
 
 Para ello, los cálculos de los ajustes de los diferentes dispositivos deben ser revisados, por el área de ingeniería, de tal forma que se tenga la certeza de que dichos ajustes brindarán la mayor sensibilidad ante condiciones no aptas de operación. 
+
 De igual forma las operaciones se consideran al generador y a sus dispositivos auxiliares, regulador de tensión, transformador principal, transformador auxiliar, turbina, transformadores de excitación y transformador de puesta a tierra; como un solo sistema, de tal forma que la correcta coordinación con estos dispositivos es de suma importancia. 
 
 Recomendaciones:
 
 Que el personal involucrado en la operación del generador eléctrico, conozca adicionalmente la importancia que este equipo representa para la seguridad y confiabilidad del Sistema Eléctrico de Potencia. 
 
-Que los alumnos confirmen que lo visto en las practicas son la base para el entendimiento de lo que se realiza en la vida laboral. Que traten de aprender lo más que se pueda, ya que todo ello les será posteriormente de mucha utilidad.
+Que los alumnos confirmen que lo visto en las practicas son la base para el entendimiento de lo que se realiza en la vida laboral. Que traten de aprender y adquirir todos los conocimientos brindados por el docente, ya que todo ello les será posteriormente de mucha utilidad.
 
 5.	Bibliografías y Referencias:
 
